@@ -1,0 +1,7 @@
+{
+  "name": "myZenly",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
